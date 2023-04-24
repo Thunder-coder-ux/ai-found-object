@@ -1,0 +1,31 @@
+.header{
+    width: 100%;
+    margin-top: 0px;
+    height: 70px;
+    font-size: 21.21px;
+    color:black;
+    font-weight: bold;
+}
+
+.header p{
+    font-weight: normal;
+}
+
+body{
+    background-size: cover;
+}
+
+#copy_right_footer{
+    background-color: grey;
+    width: 100%;
+    text-align: center;
+    bottom: 0;
+    line-height: 2;
+    position: fixed;
+    font-size: 16px;
+}
+
+canvas{
+    border: whitesmoke dashed 5px;
+    background-color: bisque;
+}
